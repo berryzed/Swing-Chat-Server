@@ -1,0 +1,17 @@
+############
+# File
+############
+*.jar
+*.war
+*.ear
+*.class
+hs_err_pid*
+Desktop.ini
+Thumbs.db 
+
+############
+# Directory
+############
+.settings/*
+bin/*
+.mtj.tmp/
